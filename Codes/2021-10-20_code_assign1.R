@@ -282,5 +282,8 @@ table(oh_demo_data$year)
 #R returns the following information:
 # 2012 2014 2016 2018 
 # 8073 8633 8857 8099 
+#These are the number of participants in the data set by the year of survey.
 
+
+#bottom-----
 
